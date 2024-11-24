@@ -1,6 +1,6 @@
 state_sync_rpc = [
   "https://nomic-rpc.polkachu.com:443",
-  "https://nomic-rpc.polkachu.com:443"
+  "https://rpc.nomic.basementnodes.ca:443"
 ]
 tendermint_flags = [
     "--p2p.seeds",
